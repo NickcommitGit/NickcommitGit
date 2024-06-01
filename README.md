@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nikhil Mishra....
-![my_image](images/
+![my_image](image.png)
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 👀 I’m interested in ...
